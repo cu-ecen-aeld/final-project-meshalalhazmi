@@ -5,3 +5,12 @@ https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/wiki/Project-Overvie
 
 Schedule:
 https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/wiki/Schedule
+
+
+
+
+## Worklog:
+
+#issue 1 - sprint 1 - completed 🏁 :   (https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/issues/3)
+
+#Repo link:   https://github.com/meshalalhazmi/ecea5307-final-buildroot
