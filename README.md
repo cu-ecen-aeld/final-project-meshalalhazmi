@@ -14,3 +14,7 @@ https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/wiki/Schedule
 #issue 1 - sprint 1 - completed 🏁 :   (https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/issues/3)
 
 #Repo link:   https://github.com/meshalalhazmi/ecea5307-final-buildroot
+
+#issue 2 - sprint 1 - completed 🏁 :   ( https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/issues/2)
+
+#Repo link:   https://github.com/meshalalhazmi/ecea5307-final-buildroot
