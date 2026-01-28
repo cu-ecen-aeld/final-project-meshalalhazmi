@@ -6,6 +6,7 @@ https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/wiki/Project-Overvie
 Schedule:
 https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/wiki/Schedule
 
+![System Hardware ](https://raw.githubusercontent.com/cu-ecen-aeld/final-project-meshalalhazmi/main/imgs/PXL_20260128_225948768.jpg)
 
 
 
