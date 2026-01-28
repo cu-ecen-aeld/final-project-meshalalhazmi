@@ -18,3 +18,12 @@ https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/wiki/Schedule
 #issue 2 - sprint 1 - completed 🏁 :   ( https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/issues/2)
 
 #Repo link:   https://github.com/meshalalhazmi/ecea5307-final-buildroot
+
+
+Issue 3: Sprint 2 - Integrate DS3231 for RTC and Verify Time Persistence  - completed 🏁 : (https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/issues/4)
+
+#Repo link:   https://github.com/meshalalhazmi/ecea5307-final-buildroot
+
+
+Issue 4: Sprint 2 - Display Time on E-Paper at Boot #5 - completed 🏁 : ( https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/issues/5)
+#Repo links:   https://github.com/meshalalhazmi/ecea5307-final-buildroot  &  https://github.com/meshalalhazmi/ecea5307-final-e-paper
