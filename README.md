@@ -31,3 +31,7 @@ Issue 4: Sprint 2 - Display Time on E-Paper at Boot #5 - completed 🏁 : ( http
 
 Issue5: Sprint 3 – Wi-Fi and NTP Support #6 - completed 🏁 : https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/issues/6
 #Repo links:   https://github.com/meshalalhazmi/ecea5307-final-buildroot
+
+
+Issue 6: Sprint 3 – System Integration and Finalization #7 - completed 🏁 https://github.com/cu-ecen-aeld/final-project-meshalalhazmi/issues/7
+#Repo links:   https://github.com/meshalalhazmi/ecea5307-final-buildroot
